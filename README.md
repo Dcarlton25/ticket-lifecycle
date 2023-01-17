@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/y4yFjYG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin this section of the lab you will need to open a new tab and go to http://localhost/osTicket/, and then click "open a new ticket". Next, you will need to 
+To begin this section of the lab you will need to open a new tab and go to http://localhost/osTicket/, and then click "open a new ticket". Next, you will need to fill out the contact information required for opening a ticket which includes an email address and a full name, then click "select a help topic", then select "Business Critical Outage", then in the Issue Summary box type "entire mobile banking is down" (example), then in the details box type "customers are reporting they are getting a 404 error when browing to online banking" (example), and then click "create ticket".
 </p>
 <br />
 
