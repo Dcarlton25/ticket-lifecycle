@@ -27,6 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img src="https://i.imgur.com/6ncLUqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y4yFjYG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To begin this section of the lab you will need to open a new tab and go to http://localhost/osTicket/, and then click "open a new ticket". Next, you will need to 
