@@ -38,7 +38,7 @@ To begin this section of the lab you will need to open a new tab and go to http:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, you will need to go back to http://localhost/osTicket/scp/login.php and login with your credentials. 
+Next, you will need to go back to http://localhost/osTicket/scp/login.php and login as one of the agents you created earlier in the lab. 
 </p>
 <br />
 
