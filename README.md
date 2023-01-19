@@ -48,6 +48,14 @@ Next, you will need to go back to http://localhost/osTicket/scp/login.php and lo
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that, click on the ticket with the "entire accounting dept adobe reader not working" subject, then update the priority level from normal to high, and then click "update". Next, update the SLA plan to "SEV-B", and then click "update". Next, assign this ticket to one of the other agents you created earlier in this lab, and then click "assign". After that, scroll downn and type "Reassigned to SEV-B, reached out to John for a warm handoff" (example) in the reply box, and then click "post reply".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, check the ticket with the "osticket installed" subject, and then click "delete". After that, click on the ticket with the "when are we getting a hardware refresh" subject, and then update it's priority level from normal to low, and then click "update". Next, you will need to assign this ticket to the agent that you are logged in as, then update the SLA plan to "SEV-C", and then click "update". After that, scroll down and type "Hardware refresh is slated for Q1, if you like, you and your dept can start testing the new units today. Just shoot me an email." (example) in the reply box, and then update the ticket status to "resolved", and click "post reply". Now you have responded to and closed all the tickets. Examples above.
 </p>
 <br />
