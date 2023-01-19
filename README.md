@@ -35,14 +35,16 @@ To begin this section of the lab you will need to open a new tab and go to http:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FuoepLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ICqreZN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, you will need to go back to http://localhost/osTicket/scp/login.php and login as one of the agents you created earlier in the lab. 
+Next, you will need to go back to http://localhost/osTicket/scp/login.php and login as one of the agents you created earlier in the lab. After that, you will need to click on the ticket with the "entire mobile banking is down" subject, then update the priority level from normal to emergency, then type "Business impacting event" in the description box and click "update". Next, assign this ticket to the agent that you logged in with, then click "assign". Next, update the SLA plan to "SEV-A", then write "Business impacting, critical incident" in the description box, and then click "update". Next, transfer the department from "Support" to "System Administrators", then type "Sys Admins responsible for mobile banking infrastructure" (example), and then click "transfer". Examples above.
 </p>
 <br />
 
 <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
